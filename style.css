@@ -14,6 +14,10 @@ body {
 .section-title {
   margin: 20px 0 10px;
   font-size: 20px;
+  .see-more {
+      font-size: 14px;
+      color: #3fa7f2;
+      cursor: pointer;
 }
 .grid {
   display: flex;
